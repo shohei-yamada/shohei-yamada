@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Shohei+Yamada;Backend+%2F+Infrastructure+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Shohei+Yamada;Backend+Engineer)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/shohei-yamada?style=social)](https://github.com/shohei-yamada)
 [![Profile Views](https://komarev.com/ghpvc/?username=shohei-yamada&color=6C63FF&style=flat-square)](https://github.com/shohei-yamada)
