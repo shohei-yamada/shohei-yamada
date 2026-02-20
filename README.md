@@ -38,16 +38,9 @@
 
 ---
 
-### 📊 GitHub Stats & Rank
+### 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/shohei-yamada">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shohei-yamada&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" />
-</a>
-<a href="https://github.com/shohei-yamada">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohei-yamada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shohei-yamada&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
