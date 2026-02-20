@@ -49,7 +49,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohei-yamada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shohei-yamada&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shohei-yamada&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
