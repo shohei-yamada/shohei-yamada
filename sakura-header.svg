@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="50%" stop-color="#2d1b33"/>
+      <stop offset="100%" stop-color="#F4A7B9"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .petal {
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+    @keyframes f1 {
+      0%   { transform: translateY(0) rotate(0deg); opacity: 0 }
+      8%   { opacity: .85 }
+      50%  { transform: translateY(170px) translateX(22px) rotate(180deg); opacity: .7 }
+      100% { transform: translateY(350px) translateX(-8px) rotate(380deg); opacity: 0 }
+    }
+    @keyframes f2 {
+      0%   { transform: translateY(0) rotate(25deg); opacity: 0 }
+      8%   { opacity: .75 }
+      50%  { transform: translateY(165px) translateX(-20px) rotate(200deg); opacity: .6 }
+      100% { transform: translateY(350px) translateX(14px) rotate(410deg); opacity: 0 }
+    }
+    @keyframes f3 {
+      0%   { transform: translateY(0) rotate(-15deg); opacity: 0 }
+      8%   { opacity: .8 }
+      50%  { transform: translateY(175px) translateX(15px) rotate(160deg); opacity: .65 }
+      100% { transform: translateY(350px) translateX(28px) rotate(340deg); opacity: 0 }
+    }
+    @keyframes f4 {
+      0%   { transform: translateY(0) rotate(40deg); opacity: 0 }
+      8%   { opacity: .7 }
+      50%  { transform: translateY(160px) translateX(-12px) rotate(230deg); opacity: .6 }
+      100% { transform: translateY(350px) translateX(-20px) rotate(440deg); opacity: 0 }
+    }
+    @keyframes fadeIn {
+      0%   { opacity: 0 }
+      100% { opacity: 1 }
+    }
+    .title { animation: fadeIn 2s ease-in-out }
+  </style>
+
+  <!-- Gradient background with wavy bottom -->
+  <path d="M0,0 H1200 V225 C1050,260 900,205 750,235 C600,265 450,210 300,245 C150,275 50,225 0,250 Z" fill="url(#bg)"/>
+
+  <!-- Falling sakura petals (behind text) -->
+  <ellipse class="petal" cx="50"   cy="-10" rx="4" ry="7" fill="#F4A7B9" style="animation:f1 7s linear infinite 0s"/>
+  <ellipse class="petal" cx="120"  cy="-10" rx="3" ry="5" fill="#FFD1DC" style="animation:f2 9.5s linear infinite 2.2s"/>
+  <ellipse class="petal" cx="200"  cy="-10" rx="4" ry="7" fill="#F4A7B9" style="animation:f3 8s linear infinite 0.5s"/>
+  <ellipse class="petal" cx="285"  cy="-10" rx="3" ry="6" fill="#E8899A" style="animation:f4 10s linear infinite 3.8s"/>
+  <ellipse class="petal" cx="370"  cy="-10" rx="5" ry="8" fill="#FFD1DC" style="animation:f1 8.5s linear infinite 1.5s"/>
+  <ellipse class="petal" cx="450"  cy="-10" rx="3" ry="5" fill="#F4A7B9" style="animation:f3 7.5s linear infinite 4.2s"/>
+  <ellipse class="petal" cx="530"  cy="-10" rx="4" ry="7" fill="#F4A7B9" style="animation:f2 9s linear infinite 0.8s"/>
+  <ellipse class="petal" cx="610"  cy="-10" rx="5" ry="7" fill="#FFD1DC" style="animation:f4 7s linear infinite 2.8s"/>
+  <ellipse class="petal" cx="690"  cy="-10" rx="3" ry="6" fill="#E8899A" style="animation:f1 8s linear infinite 5.2s"/>
+  <ellipse class="petal" cx="770"  cy="-10" rx="4" ry="7" fill="#F4A7B9" style="animation:f3 10s linear infinite 1.8s"/>
+  <ellipse class="petal" cx="850"  cy="-10" rx="3" ry="5" fill="#FFD1DC" style="animation:f2 7.5s linear infinite 3.5s"/>
+  <ellipse class="petal" cx="930"  cy="-10" rx="5" ry="8" fill="#F4A7B9" style="animation:f4 8.5s linear infinite 0.3s"/>
+  <ellipse class="petal" cx="1010" cy="-10" rx="4" ry="6" fill="#E8899A" style="animation:f1 9.5s linear infinite 4.8s"/>
+  <ellipse class="petal" cx="1080" cy="-10" rx="3" ry="7" fill="#F4A7B9" style="animation:f3 7s linear infinite 2s"/>
+  <ellipse class="petal" cx="1155" cy="-10" rx="4" ry="5" fill="#FFD1DC" style="animation:f2 10s linear infinite 1s"/>
+
+  <!-- Second layer - offset timing for density -->
+  <ellipse class="petal" cx="85"   cy="-10" rx="3" ry="5" fill="#FFD1DC" style="animation:f4 11s linear infinite 6s"/>
+  <ellipse class="petal" cx="250"  cy="-10" rx="3" ry="6" fill="#F4A7B9" style="animation:f1 9s linear infinite 5.5s"/>
+  <ellipse class="petal" cx="490"  cy="-10" rx="4" ry="6" fill="#E8899A" style="animation:f2 8s linear infinite 6.5s"/>
+  <ellipse class="petal" cx="650"  cy="-10" rx="3" ry="5" fill="#FFD1DC" style="animation:f3 10.5s linear infinite 7s"/>
+  <ellipse class="petal" cx="810"  cy="-10" rx="4" ry="7" fill="#F4A7B9" style="animation:f4 8s linear infinite 5.8s"/>
+  <ellipse class="petal" cx="970"  cy="-10" rx="3" ry="5" fill="#FFD1DC" style="animation:f1 9.5s linear infinite 7.5s"/>
+  <ellipse class="petal" cx="1120" cy="-10" rx="3" ry="6" fill="#F4A7B9" style="animation:f2 7.5s linear infinite 6.2s"/>
+
+  <!-- Name and title (on top of petals) -->
+  <text class="title" x="600" y="115" text-anchor="middle" fill="#ffffff" font-size="48" font-family="'Segoe UI',Arial,sans-serif" font-weight="bold">Shohei Yamada</text>
+  <text class="title" x="600" y="158" text-anchor="middle" fill="#FFD1DC" font-size="22" font-family="'Segoe UI',Arial,sans-serif">Backend Engineer</text>
+</svg>
