@@ -1,35 +1,35 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Shohei+Yamada;Backend+Engineer)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d1b33,100:F4A7B9&height=200&section=header&text=Shohei%20Yamada&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=%E3%83%90%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&descSize=20&descAlignY=55&descColor=FFD1DC" width="100%" />
 
-[![GitHub followers](https://img.shields.io/github/followers/shohei-yamada?style=social)](https://github.com/shohei-yamada)
-[![Profile Views](https://komarev.com/ghpvc/?username=shohei-yamada&color=6C63FF&style=flat-square)](https://github.com/shohei-yamada)
+[![GitHub followers](https://img.shields.io/github/followers/shohei-yamada?label=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%AF%E3%83%BC&style=flat-square&color=F4A7B9&labelColor=1a1b27)](https://github.com/shohei-yamada)
+[![Profile Views](https://komarev.com/ghpvc/?username=shohei-yamada&color=F4A7B9&style=flat-square&label=%E8%A8%AA%E5%95%8F%E8%80%85)](https://github.com/shohei-yamada)
 
 </div>
 
----
+<br>
 
-### 🛠️ Tech Stack
+## 🌸 技術スタック
 
 <div align="center">
 
-#### Languages
+#### 言語
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)
 
-#### Frameworks & Libraries
+#### フレームワーク
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-#### Infrastructure & Cloud
+#### インフラ・クラウド
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-#### CI/CD & Monitoring
+#### CI/CD・監視
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
@@ -38,17 +38,17 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub統計
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shohei-yamada&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shohei-yamada&hide_border=true&background=1a1b27&ring=F4A7B9&fire=E34234&currStreakLabel=F4A7B9&sideLabels=F4A7B9&currStreakNum=FFD1DC&sideNums=c9d1d9&dates=8b949e)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
 ---
 
-### 📈 Profile Summary Cards
+## 📈 活動サマリー
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 実績
 
 <div align="center">
 
@@ -86,14 +86,8 @@
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shohei-yamada&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shohei-yamada&bg_color=1a1b27&color=F4A7B9&line=F4A7B9&point=FFD1DC&area=true&area_color=2d1b33&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4A7B9,50:2d1b33,100:1a1b27&height=120&section=footer" width="100%" />
