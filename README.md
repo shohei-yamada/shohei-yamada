@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d1b33,100:F4A7B9&height=200&section=header&text=Shohei%20Yamada&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20Engineer&descSize=20&descAlignY=55&descColor=FFD1DC" width="100%" />
+<img src="https://raw.githubusercontent.com/shohei-yamada/shohei-yamada/main/sakura-header.svg" width="100%" />
 
 [![GitHub followers](https://img.shields.io/github/followers/shohei-yamada?style=flat-square&color=F4A7B9&labelColor=1a1b27)](https://github.com/shohei-yamada)
 [![Profile Views](https://komarev.com/ghpvc/?username=shohei-yamada&color=F4A7B9&style=flat-square)](https://github.com/shohei-yamada)
