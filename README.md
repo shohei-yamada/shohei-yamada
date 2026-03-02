@@ -1,35 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d1b33,100:F4A7B9&height=200&section=header&text=Shohei%20Yamada&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=%E3%83%90%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&descSize=20&descAlignY=55&descColor=FFD1DC" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d1b33,100:F4A7B9&height=200&section=header&text=Shohei%20Yamada&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20Engineer&descSize=20&descAlignY=55&descColor=FFD1DC" width="100%" />
 
-[![GitHub followers](https://img.shields.io/github/followers/shohei-yamada?label=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%AF%E3%83%BC&style=flat-square&color=F4A7B9&labelColor=1a1b27)](https://github.com/shohei-yamada)
-[![Profile Views](https://komarev.com/ghpvc/?username=shohei-yamada&color=F4A7B9&style=flat-square&label=%E8%A8%AA%E5%95%8F%E8%80%85)](https://github.com/shohei-yamada)
+[![GitHub followers](https://img.shields.io/github/followers/shohei-yamada?style=flat-square&color=F4A7B9&labelColor=1a1b27)](https://github.com/shohei-yamada)
+[![Profile Views](https://komarev.com/ghpvc/?username=shohei-yamada&color=F4A7B9&style=flat-square)](https://github.com/shohei-yamada)
 
 </div>
 
 <br>
 
-## 🌸 技術スタック
+## 🌸 Tech Stack
 
 <div align="center">
 
-#### 言語
+#### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)
 
-#### フレームワーク
+#### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-#### インフラ・クラウド
+#### Infrastructure & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-#### CI/CD・監視
+#### CI/CD & Monitoring
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
@@ -38,7 +38,7 @@
 
 ---
 
-## 📊 GitHub統計
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 📈 活動サマリー
+## 📈 Profile Summary
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 ---
 
-## 🏆 実績
+## 🏆 Trophies
 
 <div align="center">
 
